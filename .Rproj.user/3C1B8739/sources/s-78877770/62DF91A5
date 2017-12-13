@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1513159679445.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "62DF91A5",
+    "lastKnownWriteTime" : -7455423992988434426,
+    "last_content_update" : 1513159679445,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "ff3ed185b0dc4f778eae96195d48b20f",
+        "name" : "myVector",
+        "title" : "myVector"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

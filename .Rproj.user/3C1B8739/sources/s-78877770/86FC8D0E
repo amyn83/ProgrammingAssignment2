@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1513136114735.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1024015118",
+    "hash" : "0",
     "id" : "86FC8D0E",
     "lastKnownWriteTime" : 1513136225,
-    "last_content_update" : 1513136225481,
+    "last_content_update" : 1513158899852,
     "path" : "~/Documents/MOOC/Data SS/Working/ProgrammingAssignment2/README.md",
     "project_path" : "README.md",
     "properties" : {
-        "cursorPosition" : "107,0",
-        "scrollLine" : "74"
+        "cursorPosition" : "52,4",
+        "scrollLine" : "52"
     },
     "relative_order" : 2,
     "source_on_save" : false,
